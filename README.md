@@ -12,3 +12,11 @@ The interface looks like this:
 
 ![Screenshot 2024-03-05 202713](https://github.com/srishtiguptaa/Web_Calculator/assets/122162170/511dd98f-877f-40a0-9e37-ed3f8b56f514)
 
+Performing a basic calculation would give results like this:
+
+![Screenshot 2024-03-05 202727](https://github.com/srishtiguptaa/Web_Calculator/assets/122162170/1f9297c2-992d-4fcf-9cc7-ad33a0821ea8)
+
+Result:
+
+![Screenshot 2024-03-05 203113](https://github.com/srishtiguptaa/Web_Calculator/assets/122162170/460936a5-df2a-4a56-a6f1-40f9974e7cbe)
+
